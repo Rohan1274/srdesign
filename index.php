@@ -39,7 +39,7 @@
 </style>
 
 
-
+<link rel='icon' href="logo/png without background 2.png">
   <title>SR Designs</title>
 </head>
 
